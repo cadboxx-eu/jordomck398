@@ -1,38 +1,43 @@
 24: McKay,Jordan
 EECS 398-004 F16
-Assignment 1: PathPlan_Heap: PENDING
+Assignment 1 feature 1 (4 ): PathPlan_Heap: PENDING
 
-Assignment 2: PathPlan_AStar: PENDING
+Assignment 1 feature 2 (8 ): PathPlan_AStar: PENDING
 
-Assignment 3: Pendularm_Euler: PENDING
+Assignment 1 feature 3 (2 ): Pendularm_Euler: PENDING
 
-Assignment 4: Pendularm_VelocityVerlet: PENDING
+Assignment 1 feature 4 (2 ): Pendularm_VelocityVerlet: PENDING
 
-Assignment 5: Pendularm_PID: PENDING
+Assignment 1 feature 5 (2 ): Pendularm_PID: PENDING
 
-Assignment 6: FK_MatrixRoutines: PENDING
+Assignment 2 feature 6 (4 ): FK_MatrixRoutines: PENDING
 
-Assignment 7: FK_Transforms: PENDING
+Assignment 2 feature 7 (4 ): FK_Transforms: PENDING
 
-Assignment 8: FK_JointRendering: PENDING
+Assignment 2 feature 8 (4 ): FK_JointRendering: PENDING
 
-Assignment 9: FSMDance_Quaternion: PENDING
+Assignment 2 feature 9 (2 ): FSMDance_Quaternion: PENDING
 
-Assignment 10: FSMDance_BaseControl: PENDING
+Assignment 2 feature 10 (4 ): FSMDance_BaseControl: PENDING
 
-Assignment 11: FSMDance_SetpointControl: PENDING
+Assignment 3 feature 11 (2 ): FSMDance_SetpointControl: PENDING
 
-Assignment 12: FSMDance_FSM: PENDING
+Assignment 3 feature 12 (8 ): FSMDance_FSM: PENDING
 
-Assignment 13: IK_Jacobian: PENDING
+Assignment 3 feature 13 (2 ): IK_Jacobian: PENDING
 
-Assignment 14: IK_JTranspose: PENDING
+Assignment 3 feature 14 (3 ): IK_JTranspose: PENDING
 
-Assignment 15: IK_JPseudoinverse: PENDING
+Assignment 3 feature 15 (3 ): IK_JPseudoinverse: PENDING
 
-Assignment 16: MotionPlan_Collision: PENDING
+Assignment 4 feature 16 (6 ): MotionPlan_Collision: PENDING
 
-Assignment 17: MotionPlan_2DRRTConnect: PENDING
+Assignment 4 feature 17 (2 ): MotionPlan_2DRRTConnect: PENDING
 
-Assignment 18: MotionPlan_CSpaceRRTConnect: PENDING
+Assignment 4 feature 18 (2 ): MotionPlan_CSpaceRRTConnect: PENDING
 
+Quiz 1: 9/12
+Quiz 2: PENDING
+Quiz 3: PENDING
+Quiz 4: PENDING
+Quiz 5: PENDING
