@@ -1,40 +1,40 @@
 24: McKay,Jordan
 EECS 398-004 F16
-Assignment 1 feature 1 (/4): PathPlan_Heap: DUE
+Assignment 1 feature 1 (0/4): PathPlan_Heap: DUE
   error: branch not found
-Assignment 1 feature 2 (/8): PathPlan_AStar: DUE
+Assignment 1 feature 2 (0/8): PathPlan_AStar: DUE
   error: branch not found
-Assignment 1 feature 3 (/2): Pendularm_Euler: DUE
+Assignment 1 feature 3 (0/2): Pendularm_Euler: DUE
   error: branch not found
-Assignment 1 feature 4 (/2): Pendularm_VelocityVerlet: DUE
+Assignment 1 feature 4 (0/2): Pendularm_VelocityVerlet: DUE
   error: branch not found
-Assignment 1 feature 5 (/2): Pendularm_PID: DUE
+Assignment 1 feature 5 (0/2): Pendularm_PID: DUE
   error: branch not found
-Assignment 2 feature 6 (/4): FK_MatrixRoutines: DUE
+Assignment 2 feature 6 (0/4): FK_MatrixRoutines: DUE
   error: branch not found
-Assignment 2 feature 7 (/4): FK_Transforms: DUE
+Assignment 2 feature 7 (0/4): FK_Transforms: DUE
   error: branch not found
-Assignment 2 feature 8 (/4): FK_JointRendering: DUE
+Assignment 2 feature 8 (0/4): FK_JointRendering: DUE
   error: branch not found
-Assignment 2 feature 9 (/2): FSMDance_Quaternion: PENDING
+Assignment 2 feature 9 (0/2): FSMDance_Quaternion: PENDING
 
-Assignment 2 feature 10 (/4): FSMDance_BaseControl: PENDING
+Assignment 2 feature 10 (0/4): FSMDance_BaseControl: PENDING
 
-Assignment 3 feature 11 (/2): FSMDance_SetpointControl: PENDING
+Assignment 3 feature 11 (0/2): FSMDance_SetpointControl: PENDING
 
-Assignment 3 feature 12 (/8): FSMDance_FSM: PENDING
+Assignment 3 feature 12 (0/8): FSMDance_FSM: PENDING
 
-Assignment 3 feature 13 (/2): IK_Jacobian: PENDING
+Assignment 3 feature 13 (0/2): IK_Jacobian: PENDING
 
-Assignment 3 feature 14 (/3): IK_JTranspose: PENDING
+Assignment 3 feature 14 (0/3): IK_JTranspose: PENDING
 
-Assignment 3 feature 15 (/3): IK_JPseudoinverse: PENDING
+Assignment 3 feature 15 (0/3): IK_JPseudoinverse: PENDING
 
-Assignment 4 feature 16 (/6): MotionPlan_Collision: PENDING
+Assignment 4 feature 16 (0/6): MotionPlan_Collision: PENDING
 
-Assignment 4 feature 17 (/2): MotionPlan_2DRRTConnect: PENDING
+Assignment 4 feature 17 (0/2): MotionPlan_2DRRTConnect: PENDING
 
-Assignment 4 feature 18 (/2): MotionPlan_CSpaceRRTConnect: PENDING
+Assignment 4 feature 18 (0/2): MotionPlan_CSpaceRRTConnect: PENDING
 
 Quiz 1: 9/12
 Quiz 2: 16/24
